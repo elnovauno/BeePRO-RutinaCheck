@@ -47,9 +47,9 @@
   --bs-danger-rgb: 214, 41, 62;
   --bs-light-rgb: 248, 248, 248;
   --bs-dark-rgb: 32, 33, 36;
-  --bs-primary-text-emphasis: #068138;
+  --bs-primary-text-emphasis: #32365e;
   --bs-secondary-text-emphasis: #5d5f61;
-  --bs-success-text-emphasis: #08845f;
+  --bs-success-text-emphasis: #565EA3;
   --bs-info-text-emphasis: #107181;
   --bs-warning-text-emphasis: #ad8920;
   --bs-danger-text-emphasis: #961d2b;
@@ -98,7 +98,7 @@
   --bs-link-color: #5c64ac;
   --bs-link-color-rgb: 9, 184, 80;
   --bs-link-decoration: none;
-  --bs-link-hover-color: #079340;
+  --bs-link-hover-color: #32365E;
   --bs-link-hover-color-rgb: 7, 147, 64;
   --bs-code-color: #d63384;
   --bs-highlight-color: #212529;
@@ -131,7 +131,7 @@
   color-scheme: dark;
   --bs-body-color: #dee2e6;
   --bs-body-color-rgb: 222, 226, 230;
-  --bs-body-bg: #212529;
+  --bs-body-bg: #20233D;
   --bs-body-bg-rgb: 33, 37, 41;
   --bs-emphasis-color: #fff;
   --bs-emphasis-color-rgb: 255, 255, 255;
